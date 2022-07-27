@@ -9,6 +9,6 @@ class Multiplication
             System.out.println(x*5);
             x++;
         }
-        while(x<=10);
+        while(x<=20);
     }
 }
