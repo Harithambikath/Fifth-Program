@@ -1,5 +1,10 @@
 class Operations
 {
+
+    public void addition(int x, int y)
+	{
+		System.out.println(x+y);
+    }
 public void subtraction(int x, int y)
 	{
 		System.out.println(x-y);
